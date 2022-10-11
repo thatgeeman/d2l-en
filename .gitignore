@@ -30,3 +30,6 @@ build/
 .vscode
 .pytest_cache
 static/latex_style/PT1*
+pytorch/data
+pytorch/chapter_appendix-mathematics-for-deep-learning/temp/
+*.*.gz
